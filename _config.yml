@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of Lichuan Deng"
+title                    : "Lichuan Deng"
 title_separator          : "-"
 name                     : &name "Lichuan Deng"
 description              : &description "Ph.D. student, Department of Computer Science, Iowa State University"
