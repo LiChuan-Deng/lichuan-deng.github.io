@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Lichuan Deng.
+Hi! My name is Lichuan Deng.
 
-I became a Ph.D. student of the [Dept. of CS](https://www.cs.iastate.edu/) at the [Iowa State University](https://www.iastate.edu/) in the Fall of 2020. Before that, I obtained my B.S in Mathematics and B.Econ in Finance from [Southwestern University of Finance and Economics](https://e.swufe.edu.cn/), Chengdu, China.
+I'm a Ph.D. student in the [Department of Computer Science](https://www.cs.iastate.edu/) at the [Iowa State University](https://www.iastate.edu/), IA, US. 
+
+Before that, I obtained my B.S in Mathematics and B.Econ in Finance from [Southwestern University of Finance and Economics](https://e.swufe.edu.cn/), Chengdu, China.
     
 For more info
 ------
