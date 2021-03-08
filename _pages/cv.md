@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+-B.S in Mathematics, Southwestern University of Finance and Economics, Chengdu, China (Sep 2016 - Jul 2020)
+    -Advisor: [Dr. Maolin Che](https://economicmath.swufe.edu.cn/info/1047/1082.htm)
+-B.Eco in Finance, Southwestern University of Finance and Economics, Chengdu, China (Sep 2016 - Jul 2020)
+    -Advisor: [Dr. Chuan Ding](https://economicmath.swufe.edu.cn/info/1045/1088.htm)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+-Research Assistant, Southwestern University of Finance and Economics, Chengdu, China (May 2019 - Sep 2019)
+    -Advisor:[Dr. Chang Liu](https://zqxy.swufe.edu.cn/info/1023/3257.htm)
   
 Skills
 ======
@@ -35,24 +29,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
