@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My full CV is available [here](CV.pdf).
+
 Education
 ======
 -B.S in Mathematics, Southwestern University of Finance and Economics, Chengdu, China (Sep 2016 - Jul 2020)
