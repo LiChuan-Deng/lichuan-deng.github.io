@@ -20,9 +20,9 @@ Education
 
 Selected courses
 ======
-* Undergrauate
+* Undergraduate
   * Advanced Algebra, Mathematical Statistics, Stochastic Process, Time Series Analysis
-* Grauate
+* Graduate
   * Design and Analysis of Algorithms
 
 Experience
