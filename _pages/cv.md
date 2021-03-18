@@ -32,8 +32,6 @@ Experience
   
 Skills
 ======
-* Programming Language: Python, Java, Latex, Matlab, Shell
+* Programming Language: Python, Java, C++, Latex, Matlab, Shell
 * Deep Learning: Pytorch, Tensorflow
-* Other:
-  * learning for C++ and Linux
-  
+* Operating Systems: Windows, Linux
