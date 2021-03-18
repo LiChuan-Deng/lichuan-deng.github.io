@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short Bio"
+#title: "Short Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Short Bio
+------
 Hi! My name is Lichuan Deng.
 
 I'm a Ph.D. student in the [Department of Computer Science](https://www.cs.iastate.edu/) at the [Iowa State University](https://www.iastate.edu/), IA, US. 
