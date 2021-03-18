@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Lichuan Deng"
+title: "CV"
 permalink: /cv/
 author_profile: true
 
