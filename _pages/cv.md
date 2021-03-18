@@ -12,10 +12,10 @@ My full CV is available [here](https://lichuan-deng.github.io/files/CV.pdf).
 
 Education
 ======
-* Ph.D student, Iowa State University, IA, US (Aug 2020 - present)
-* B.S in Mathematics, Southwestern University of Finance and Economics, Chengdu, China (Sep 2016 - Jul 2020)
+* Ph.D student, **Iowa State University**, *IA, US* (Aug 2020 - present)
+* B.S in Mathematics, **Southwestern University of Finance and Economics**, *Chengdu, China* (Sep 2016 - Jul 2020)
   * Advisor: [Dr. Maolin Che](https://economicmath.swufe.edu.cn/info/1047/1082.htm)
-* B.Eco in Finance, Southwestern University of Finance and Economics, Chengdu, China (Sep 2016 - Jul 2020)
+* B.Eco in Finance, **Southwestern University of Finance and Economics**, *Chengdu, China* (Sep 2016 - Jul 2020)
   * Advisor: [Dr. Chuan Ding](https://economicmath.swufe.edu.cn/info/1045/1088.htm)
 
 Selected courses
