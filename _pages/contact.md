@@ -8,4 +8,5 @@ author_profile: true
 
 {% include base_path %}
 
-Email: lcdeng@iastate.edu, lichuan.deng97@hotmail.com
+Email: lcdeng@iastate.edu
+Phone: +86 177-4096-4576
