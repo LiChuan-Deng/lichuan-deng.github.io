@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-My full CV is available [here](https://lichuan-deng.github.io/files/Resume-Lichuan.pdf).
+My full CV is available [here](https://lcdeng1.github.io/files/Resume-Lichuan.pdf).
 
 Education
 ======
