@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, it's  my homepage!
+Hi there, it's my preasure to meet you here! :-D
 
-I'm a Ph.D. student in the [Department of Computer Science](https://www.cs.iastate.edu/) at the [Iowa State University](https://www.iastate.edu/). Prior to this, I earned a B.S in Mathematics and B.Econ in Finance from [Southwestern University of Finance and Economics](https://e.swufe.edu.cn/).
+I'm a Ph.D. student in the [Department of Computer Science](https://www.cs.iastate.edu/) at the [Iowa State University](https://www.iastate.edu/). Prior to this, I earned a B.S. in Mathematics and B.Econ. in Finance from [Southwestern University of Finance and Economics](https://e.swufe.edu.cn/).
 
 <!-- I hope that in the future, I can work with the professors of ISU to make further research, and have the opportunity to become an algorithm research engineer.
 
