@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Lichuan"
 title_separator          : "-"
 name                     : &name "Lichuan Deng"
 description              : &description "Ph.D. student, Department of Computer Science, Iowa State University"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Lichuan Deng"
   avatar           : "Lichuan_Deng.jpg"
-  bio              : "Ph.D. student, Department of Computer Science, Iowa State University"
-  location         : "Chengdu, China"
+  bio              : "Ph.D. student in Dept of Computer Science, Iowa State University"
+  location         : "Ames, IA-50010 US"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LiChuan-Deng"
+  github           : "lcdeng1"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/lichuan-deng-21497422b"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
